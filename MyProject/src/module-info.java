@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author biswo
+ *
+ */
+module MyProject {
+}
